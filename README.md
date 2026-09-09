@@ -5,10 +5,10 @@ Static production-ready website inspired structurally by the supplied Seer World
 **Series name:** Journey  
 **Written by:** B. Carter  
 **Published by:** Seer Press  
-**Status:** 10 Books · Completed Series
+**Status:** 10-book series in progress — Book 1 (*Mile Twenty-Four*) published; Book 2 in review; Book 3 in writing; Books 4–10 outlined
 
 ## Pages
-- `/` — full-width final-map hero and completed-series home
+- `/` — full-width final-map hero and series home
 - `/books` — ten-book library
 - `/books/<slug>` — individual book pages
 - `/journey` — spoiler-marked book-by-book journey with one progressive map per book and a complete final series map
