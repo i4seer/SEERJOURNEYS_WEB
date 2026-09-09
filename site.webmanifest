@@ -1,0 +1,9 @@
+{
+  "name": "Journey",
+  "short_name": "Journey",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f0e7",
+  "theme_color": "#173a34",
+  "icons": []
+}
