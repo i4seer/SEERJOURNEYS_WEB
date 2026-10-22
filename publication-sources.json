@@ -1,0 +1,107 @@
+{
+  "verified_on": "2026-10-22",
+  "series_url": "https://www.amazon.com/dp/B0HJB3JWBH?binding=kindle_edition",
+  "notes": "Amazon series lists three published Journey titles. Each individual Kindle product was verified with Buy now with 1-Click, and every paperback with In Stock. Books 4–10 remain forthcoming. Covers extracted from current print-ready wraps using each book’s print metadata, excluding spine and bleed. Reader-facing text comes from images-print/cover-copy.txt; no current cover-text.txt exists. Known Network panel markup and all map assets are preserved.",
+  "books": [
+    {
+      "number": 1,
+      "slug": "mile-twenty-four",
+      "title": "Mile Twenty-Four",
+      "cover": "/assets/covers/book01.webp",
+      "kindle": "https://www.amazon.com/dp/B0HJ9Y249Y",
+      "paperback": "https://www.amazon.com/dp/B0HJCQ6622",
+      "source_art": "book01/images-print/cover-print-ready-no-barcode.png",
+      "source_copy": "book01/images-print/cover-copy.txt"
+    },
+    {
+      "number": 2,
+      "slug": "the-bridge-beyond-the-end",
+      "title": "The Bridge Beyond the End",
+      "cover": "/assets/covers/book02.webp",
+      "kindle": "https://www.amazon.com/dp/B0HJMKLXGK",
+      "paperback": "https://www.amazon.com/dp/B0HJSJR6CQ",
+      "source_art": "book02/images-print/cover-print-ready-no-barcode.png",
+      "source_copy": "book02/images-print/cover-copy.txt"
+    },
+    {
+      "number": 3,
+      "slug": "the-town-off-the-map",
+      "title": "The Town Off the Map",
+      "cover": "/assets/covers/book03.webp",
+      "kindle": "https://www.amazon.com/dp/B0HK11M43B",
+      "paperback": "https://www.amazon.com/dp/B0HK1869GB",
+      "source_art": "book03/images-print/cover-print-ready-no-barcode.png",
+      "source_copy": "book03/images-print/cover-copy.txt"
+    },
+    {
+      "number": 4,
+      "slug": "the-road-through-blackwood",
+      "title": "The Road Through Blackwood",
+      "cover": "/assets/covers/book04.webp",
+      "kindle": null,
+      "paperback": null,
+      "source_art": "book04/images-print/cover-print-ready-no-barcode.png",
+      "source_copy": "book04/images-print/cover-copy.txt"
+    },
+    {
+      "number": 5,
+      "slug": "the-mountain-mile",
+      "title": "The Mountain Mile",
+      "cover": "/assets/covers/book05.webp",
+      "kindle": null,
+      "paperback": null,
+      "source_art": "book05/images-print/cover-print-ready-no-barcode.png",
+      "source_copy": "book05/images-print/cover-copy.txt"
+    },
+    {
+      "number": 6,
+      "slug": "the-people-who-stayed",
+      "title": "The People Who Stayed",
+      "cover": "/assets/covers/book06.webp",
+      "kindle": null,
+      "paperback": null,
+      "source_art": "book06/images-print/cover-print-ready-no-barcode.png",
+      "source_copy": "book06/images-print/cover-copy.txt"
+    },
+    {
+      "number": 7,
+      "slug": "the-broken-map",
+      "title": "The Broken Map",
+      "cover": "/assets/covers/book07.webp",
+      "kindle": null,
+      "paperback": null,
+      "source_art": "book07/images-print/cover-print-ready-no-barcode.png",
+      "source_copy": "book07/images-print/cover-copy.txt"
+    },
+    {
+      "number": 8,
+      "slug": "the-far-side-of-the-pass",
+      "title": "The Far Side of the Pass",
+      "cover": "/assets/covers/book08.webp",
+      "kindle": null,
+      "paperback": null,
+      "source_art": "book08/images-print/cover-print-ready-no-barcode.png",
+      "source_copy": "book08/images-print/cover-copy.txt"
+    },
+    {
+      "number": 9,
+      "slug": "the-first-marker",
+      "title": "The First Marker",
+      "cover": "/assets/covers/book09.webp",
+      "kindle": null,
+      "paperback": null,
+      "source_art": "book09/images-print/cover-print-ready-no-barcode.png",
+      "source_copy": "book09/images-print/cover-copy.txt"
+    },
+    {
+      "number": 10,
+      "slug": "where-the-road-begins",
+      "title": "Where the Road Begins",
+      "cover": "/assets/covers/book10.webp",
+      "kindle": null,
+      "paperback": null,
+      "source_art": "book10/images-print/cover-print-ready-no-barcode.png",
+      "source_copy": "book10/images-print/cover-copy.txt"
+    }
+  ]
+}
