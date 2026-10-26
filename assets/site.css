@@ -17,7 +17,7 @@
 
 
 /* Journey cover refresh and editorial presentation — October 2026. */
-.hero{width:100%;margin-left:0;min-height:700px;background-image:url('/assets/hero-road.webp?v=b47ad40051a6');background-position:center 56%}
+.hero{width:100%;margin-left:0;min-height:700px;background-image:url('/assets/hero-road.webp?v=2557f8215bd3');background-position:center 56%}
 .hero:before{background:rgba(5,20,17,.07)}
 .hero:after{background:linear-gradient(90deg,rgba(4,16,14,.82) 0%,rgba(4,16,14,.63) 32%,rgba(4,16,14,.18) 61%,rgba(4,16,14,.02) 100%)}
 .hero-content{min-height:700px}.hero-copy{width:min(610px,51vw);padding:64px 0}
@@ -27,7 +27,7 @@
 .hero-series-note{font-size:.93rem;font-style:italic;color:#d8ddcf;margin:22px 0 0}
 .hero .hero-credit{margin-bottom:24px;color:#edbd83;font-size:.65rem}
 .btn{border-radius:999px;letter-spacing:.07em}
-.subhero{background:linear-gradient(90deg,rgba(7,30,25,.94),rgba(7,30,25,.76)),url('/assets/hero-road.webp?v=b47ad40051a6') center 44%/cover;color:#fff;padding:66px 0 48px}
+.subhero{background:linear-gradient(90deg,rgba(7,30,25,.94),rgba(7,30,25,.76)),url('/assets/hero-road.webp?v=2557f8215bd3') center 44%/cover;color:#fff;padding:66px 0 48px}
 .subhero h1{color:#fff;font-size:clamp(3rem,5.2vw,5rem)}
 .subhero p{color:#d8e1d7}.subhero .eyebrow{color:#edbd83}
 .subhero .catalog-note{font-size:.98rem;margin:20px 0 0;max-width:75ch;color:#c5d3c7}

@@ -1,0 +1,135 @@
+{
+  "source": "C:\\SEERJOURNEYS",
+  "books": [
+    {
+      "number": 1,
+      "cover": "/assets/covers/book01.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "source_cover": "book01/images-print/cover-front.png",
+      "source_cover_sha256": "be080dd9b22c78247661a7d8632c9d1da4586847b9bfb88b825652d68ad76c6c",
+      "artwork": "/assets/scenes/book01.webp",
+      "source_art": "book01/images-print/background-art-master.png",
+      "source_art_sha256": "22e0b9a4d504b7037bbdfaa10679b99b2be2c6cdaa72104d5fc3106e2e9a16ab"
+    },
+    {
+      "number": 2,
+      "cover": "/assets/covers/book02.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "source_cover": "book02/images-print/cover-front.png",
+      "source_cover_sha256": "59ce04ae4327783c759e59e23fb3c9bc2e7403c5890b3bf466e3d6a82a440514",
+      "artwork": "/assets/scenes/book02.webp",
+      "source_art": "book02/images-print/background-art-master.png",
+      "source_art_sha256": "fd5969aa1726a64b619a422de69e607d5ff2d71a95661105223c5bee4537099b"
+    },
+    {
+      "number": 3,
+      "cover": "/assets/covers/book03.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "source_cover": "book03/images-print/cover-front.png",
+      "source_cover_sha256": "db838fa158d6c2f2012343583fdbb818374c726b5ea6c833a0441074598323e7",
+      "artwork": "/assets/scenes/book03.webp",
+      "source_art": "book03/images-print/background-art-master.png",
+      "source_art_sha256": "fcf27998d05f6eef3189cb220ac6d004d65be27ad3d769880dbc6bbfd3f19bd4"
+    },
+    {
+      "number": 4,
+      "cover": "/assets/covers/book04.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "source_cover": "book04/images-print/cover-front.png",
+      "source_cover_sha256": "d76837842bc064da90c4528e5230b9a7af69a0965aebc532a224e33b42f09a5e",
+      "artwork": "/assets/scenes/book04.webp",
+      "source_art": "book04/images-print/background-art-master.png",
+      "source_art_sha256": "1087f52f9abab0752a01475cbacb7d4e505b63640446f51119f8e9d09e5d1bfc"
+    },
+    {
+      "number": 5,
+      "cover": "/assets/covers/book05.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "source_cover": "book05/images-print/cover-front.png",
+      "source_cover_sha256": "c0a6bc44ea25ff36ce322fc7dac955ec0d7801a2a3dec71b8deaaeaca2d019fc",
+      "artwork": "/assets/scenes/book05.webp",
+      "source_art": "book05/images-print/background-art-master.png",
+      "source_art_sha256": "5088793199f99472415bbf1873ccd298c572d6cf6bbb4d32c84f91a7453bfc2e"
+    },
+    {
+      "number": 6,
+      "cover": "/assets/covers/book06.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "source_cover": "book06/images-print/cover-front.png",
+      "source_cover_sha256": "da40f46d5e9c4138eeec931a2304a91b3b3af4e08c4c2be37180d9ce88e7c9b6",
+      "artwork": "/assets/scenes/book06.webp",
+      "source_art": "book06/images-print/background-art-master.png",
+      "source_art_sha256": "e14632ae055720c057b24e6194b3f87e0f3b035c73f54aea7e57e4cbeadd34e3"
+    },
+    {
+      "number": 7,
+      "cover": "/assets/covers/book07.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "source_cover": "book07/images-print/cover-front.png",
+      "source_cover_sha256": "7de95790d677b0131ef8fbbe467157a3a22eb084430c235f8a9751ee9c65d6f0",
+      "artwork": "/assets/scenes/book07.webp",
+      "source_art": "book07/images-print/background-art-master.png",
+      "source_art_sha256": "e219275127d1a2556e238d9f100cdfdd31e4177b964fbaed71d19d6c820a2be7"
+    },
+    {
+      "number": 8,
+      "cover": "/assets/covers/book08.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "source_cover": "book08/images-print/cover-front.png",
+      "source_cover_sha256": "5cc01b7debfea4b5465efd693428dec8f44c2f1bc55ef437d7975a86bf9c114a",
+      "artwork": "/assets/scenes/book08.webp",
+      "source_art": "book08/images-print/background-art-master.png",
+      "source_art_sha256": "91b180a4629961b69c2ac9709ae3ab3e921d5c7e48f509bb8b16cfa5e1112a24"
+    },
+    {
+      "number": 9,
+      "cover": "/assets/covers/book09.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "source_cover": "book09/images-print/cover-front.png",
+      "source_cover_sha256": "186ef3e2ece6d8a07ac787da21525bb1bf5a32518a2957a7ed4d0c78352b3eda",
+      "artwork": "/assets/scenes/book09.webp",
+      "source_art": "book09/images-print/background-art-master.png",
+      "source_art_sha256": "8897d8aab7106600b9d47015d8903f19d8f272a200b4df9ee2448454f606f24e"
+    },
+    {
+      "number": 10,
+      "cover": "/assets/covers/book10.webp",
+      "size": [
+        1280,
+        2048
+      ],
+      "source_cover": "book10/images-print/cover-front.png",
+      "source_cover_sha256": "b5e2ea55ab8241342bb7be3187a5ca99b4e7b9d0c8301137e5cc34c45f71afbf",
+      "artwork": "/assets/scenes/book10.webp",
+      "source_art": "book10/images-print/background-art-master.png",
+      "source_art_sha256": "054ca0c2c9d8d51f9725b8a33470f51771e523eafa9a40c095c05c36484b7990"
+    }
+  ]
+}
